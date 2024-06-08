@@ -1,0 +1,547 @@
+Cmp-Mod V01 Created by PcbNew   date = 05/06/2024 10:05:44
+
+BeginCmp
+TimeStamp = 11bfda3e-5007-4409-b4f7-c70774533f3f
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 25608a71-da1c-43ed-806b-ae74534768d6
+Path = 
+Reference = MH2;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 395a2d04-9d0d-494e-9523-13166d417fc6
+Path = /3b64345d-4b07-4532-acc9-f5da061800d5
+Reference = D26;
+ValeurCmp = APA-106-F5;
+IdModule  = LED_THT:LED_D5.0mm-4_RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = 56b7b257-e67f-4e36-a077-f1be54b90cd9
+Path = /3b09a07e-e626-47c4-930f-b34cbd4bc17b
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = 64df9459-711d-4622-bfb9-a0012b17dd3f
+Path = /19d8c12b-c7b4-4798-aeb2-cdad9314d37e
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = 7370690b-7a1e-4b15-9799-258dd2f0194e
+Path = /20d84032-f35e-4423-8e39-4da92adf7164
+Reference = D15;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = 75a301b4-9227-4a85-9412-48f6fec753b5
+Path = /e6169b9c-1d51-45cc-9106-1fa0a03af152
+Reference = D20;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = 79d4f26c-219c-4715-8db4-0de59efedeea
+Path = /10640ac1-771b-46c6-8e22-fbe4c4c6cd99
+Reference = D21;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = 7be4eb46-2f31-4c3e-bcdd-2bab1f615721
+Path = 
+Reference = MH3;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 82e42b3e-09e9-4f02-930f-17eba590eef4
+Path = /e0fed82f-6b3c-4c61-a163-1b51fef395d8
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = 926d074b-cbbc-43b8-8ac0-d499d4268fba
+Path = /d687adb6-ee0b-45ad-8c46-c45e2fe07a26
+Reference = D14;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = 95b4f607-6e00-435e-be42-6343eb8cd4f0
+Path = /dc5fb683-f80d-41c9-b824-dce80c8a49e2
+Reference = D24;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = 9784f495-ef0f-48bf-8615-a0db0697a547
+Path = /3defcd95-6b66-410e-a242-11cfe1f792d0
+Reference = BZ1;
+ValeurCmp = Buzzer;
+IdModule  = Buzzer_Beeper:MagneticBuzzer_ProSignal_ABI-009-RC;
+EndCmp
+
+BeginCmp
+TimeStamp = 9d18293b-89f3-4b6f-8aa9-31e27b7b18f7
+Path = /51558041-40ea-4739-a2ba-5b84b1b04ead
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = a41f74de-0988-4115-921a-51949d3fe430
+Path = /ebede247-7694-49b7-beee-12f7c8ad0421
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = aa867949-f621-4daf-93ed-0df9f781ca28
+Path = /2fdb1e70-bc44-47c6-95f1-fb0127930e7b
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = ab94e222-a884-4f21-bedc-b959afce20ba
+Path = /b9a3c91c-f892-49e1-99f2-e2a3582dd857
+Reference = D17;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = acd4eacf-612a-451c-a327-b33857030325
+Path = /18073d4a-1e4c-41e9-afe2-582208c2ccae
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = ae8b0468-0365-4005-9be2-255ead1433e9
+Path = /882a7cbd-4242-4c59-9bb1-28969eba7e74
+Reference = D19;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = b03c635f-f723-4def-8653-69fc4f32c03c
+Path = /69028762-0a2b-4a94-9b7f-9c7e302e9a73
+Reference = D25;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = b1bbd191-658c-4e38-ac32-7fb135dd14c2
+Path = /57e2548a-164e-42f8-a673-143e9df9f9b8
+Reference = D23;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = b366261e-532a-42ec-a0a5-0dd1524c4ccb
+Path = /856778c7-308b-45fe-a094-21c6d10a6012
+Reference = D16;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = c30fe74b-9f7c-4abc-bfd9-5583b2939b56
+Path = /61e7afa4-6d9e-45b8-917a-fc85ae95a1f6
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = c46de2b9-d7f2-4cff-afdc-645a7aeb9ddd
+Path = /2e76cf5f-c21b-4f90-bab0-2605d7e5ea81
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = c5a4ed6d-4869-46a1-833c-dd69a5d4cc66
+Path = /d5bb90cb-301e-4477-8293-60f839c14aeb
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = d0cee475-f5ae-49ec-a29f-baefe0324c5d
+Path = /f5f930f9-9dcd-49c1-8514-0e48b56f8154
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = da53c878-6da2-406a-9249-5b1fb7219476
+Path = /a9b4a2f0-df59-4ad9-8c93-f4c87f79d15a
+Reference = J2;
+ValeurCmp = Conn_01x04_Pin;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = e0b3acc9-3bac-4cdc-9305-7bed2c38da94
+Path = /e365c5a5-423a-4ef0-93c2-906c60b0b831
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = e0d5ac9f-aef3-4ce7-9412-44cc0e446c10
+Path = /cb062e00-17be-41e1-8165-70491af9f486
+Reference = D22;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = e8cc66b1-f325-46ef-b901-aa927d7d251f
+Path = /1533bdd9-ca93-4f0d-b230-d70790ba7518
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = fd834e21-53ab-44e8-96a4-72e26f7c5654
+Path = /06689c99-62e1-4c88-bb9f-598348702fc4
+Reference = D18;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_PLCC-2_3.4x3.0mm_KA;
+EndCmp
+
+BeginCmp
+TimeStamp = 0162a2ed-0016-4aa6-92fa-9dbc581c7066
+Path = /e18c730e-afbe-4a59-8b6e-293750e0686d
+Reference = J1;
+ValeurCmp = USB_C_Receptacle_PowerOnly_6P;
+IdModule  = Connector_USB:USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 07ec00b3-21e0-4a6b-9446-050d997baeed
+Path = /e25fb7c6-de04-4b37-8501-c3b0b38e750b
+Reference = R8;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 091d6c99-4f97-43ee-969c-955d83f0c9ea
+Path = /52db0c97-1b9e-40ad-8289-f9c5d96e8c89
+Reference = R13;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1de7ed0f-f345-49fe-b06c-3fe5839ae73b
+Path = /83e2e135-9744-41c8-a95a-98c2878b30d3
+Reference = U2;
+ValeurCmp = ULN2003;
+IdModule  = ULN:D0016A_L;
+EndCmp
+
+BeginCmp
+TimeStamp = 23c3db3e-b830-40d3-ac47-be96f074fc56
+Path = /8ce6b4e9-f60f-46b7-974f-ef909aa2f5ac
+Reference = R26;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 23cafd8e-beab-41bd-a7cc-f71d556b114e
+Path = /80ab48dc-508e-48fd-8767-6c0f42c3398a
+Reference = J6;
+ValeurCmp = Conn_01x04_Pin;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 2df6d662-f35d-47a5-b5b0-4146829388d2
+Path = /61a33a62-d776-447e-96a6-ece3f6ea7827
+Reference = SW1;
+ValeurCmp = SW_DIP_x04;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 2e2b54ed-f36a-4545-87de-1d9d00225d93
+Path = /aab1dce7-7db3-4918-9918-99adae061a05
+Reference = R16;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 2edb329d-6bed-4c2d-8f9c-254e95115b48
+Path = /a94062ef-8d60-446e-9171-136897df4fd8
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 30fa5eb1-ab69-45db-9fac-daef292af052
+Path = /0e61bf2f-2978-4690-902f-f30242de2f19
+Reference = R11;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3c43915a-b23d-4b69-a52e-743ed5f1a6e7
+Path = /a414162e-7756-43c6-9fe6-72f87a647cc1
+Reference = R22;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 4a5593b0-18aa-4c43-9c46-b0dc2a113a22
+Path = /df6d8f26-c08e-4b9c-ae2b-23d7c64f310e
+Reference = R9;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 4f6e650c-fc1f-4efa-9acf-1173ced614c0
+Path = /4f2bd98a-8b41-463c-b81a-b677277626f3
+Reference = R20;
+ValeurCmp = R_Variable;
+IdModule  = Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 53bb90b6-52a2-42c7-aedb-927ca085d6f5
+Path = /697cd02b-0f3b-43c6-b2f9-4a6480952ec4
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5edeb787-5501-4252-b562-8893054e6948
+Path = /c7bf36d8-c346-47fe-a8ee-403ad4447646
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7689f4e5-6b98-4d8a-afa1-3157cb023e52
+Path = /e8ae7a32-e3b0-45f8-acbe-a53c4d147ba1
+Reference = R27;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7c41d679-1b30-4b2c-8061-a00e0392b051
+Path = /f9169bb7-0eb4-4fce-9043-7d4699141acd
+Reference = R18;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7cc20466-133d-4b61-ac02-bc22fdc6c2e0
+Path = /8a7650b2-d3f1-45d4-bfde-316be03bbe4b
+Reference = J4;
+ValeurCmp = Conn_01x20_Pin;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 826eb4d1-1e3d-4909-ab2f-eebde648facb
+Path = /96310b29-3921-4224-8253-e0d489080f02
+Reference = R24;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 8cecb102-ad7c-4382-8c27-9e879a0fd3e3
+Path = /82635aeb-2afe-40a1-9642-5e42a4a85d9e
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = a8a32485-6fca-4f17-bc7f-e005b3c60716
+Path = /b82bbb03-1a0e-44ac-9a4a-ef3f86f50748
+Reference = R19;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = ad0d1d2a-b7aa-43d1-9eca-4eaccef57c85
+Path = /532d3c1f-778c-44c4-9a69-156f1601a98c
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b0c03eeb-6bf0-49ba-a04a-0105b117f351
+Path = /1b35eafd-ee21-4a42-85d1-d019d66e7bff
+Reference = J3;
+ValeurCmp = Conn_01x02_Pin;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = b38ca875-f761-4ea6-9e81-0cbc4916edf2
+Path = /49098ad5-afa3-48c9-a40d-949e9a47ebd6
+Reference = R15;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b7a05ff3-f25d-43a7-b778-97ba3ab95504
+Path = /280682f9-8fa8-4931-8804-a656350d458d
+Reference = R25;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b7cf32bd-b70f-4283-86dd-d1c8693a74d8
+Path = /ae72c56c-9f90-4676-9b46-3167913144f2
+Reference = R23;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = bb76ad6a-ca6c-4f55-b849-71d48670787f
+Path = /1dd5ca55-133c-4f83-bfef-e130b9407a36
+Reference = R12;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = c283fe10-765b-40e1-828c-40d1c0caf295
+Path = /2b74832d-0fc9-4f11-aba7-467c0cb245a5
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = c8503638-5e73-48ff-8dc2-19950996a15e
+Path = 
+Reference = 1;
+ValeurCmp = LOGO;
+IdModule  = LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = ce1afa7d-f889-4c64-b97d-9735ebc16586
+Path = /73542b7b-c00a-4fd4-b224-9deb21a082a4
+Reference = R14;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = d97a9d08-c04e-4720-8c4c-0561beade2f2
+Path = /e158d067-864d-4239-92ad-133e8d12571e
+Reference = R21;
+ValeurCmp = R;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = e845fd32-36ff-4e5a-9d81-7b3fc4d9d1ac
+Path = /b3266df8-0f4c-49fd-ab5e-ecced33efc95
+Reference = U1;
+ValeurCmp = ULN2003;
+IdModule  = ULN:D0016A_L;
+EndCmp
+
+BeginCmp
+TimeStamp = e99a5c58-b6d3-4099-9356-3e660f37627a
+Path = /bf9f0ceb-d99b-428b-9afc-7fce32571524
+Reference = Q1;
+ValeurCmp = NPN;
+IdModule  = ULN:TO-18_4;
+EndCmp
+
+BeginCmp
+TimeStamp = eb15394a-f624-49ab-adea-db76b3bdafdd
+Path = /74dcd7e8-5b02-4926-aeab-3f11bf39383e
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = f18e18c6-5271-4d25-bfd3-52b7c8c9cca6
+Path = /c81d4edf-a22d-4e15-9314-67f1b317f859
+Reference = R10;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = f2f11174-59c2-41b1-b057-42a9046442da
+Path = /d0341717-2df4-4e63-b695-2dccf2c7ceee
+Reference = R17;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = fd76fde4-b7ed-483a-8507-49abdd619dba
+Path = /c0ca741f-947a-4e0d-b5cf-bc25e7fc7e1e
+Reference = J5;
+ValeurCmp = Conn_01x20_Pin;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical;
+EndCmp
+
+EndListe
