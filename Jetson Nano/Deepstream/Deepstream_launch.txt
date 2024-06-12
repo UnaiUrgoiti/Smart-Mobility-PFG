@@ -1,0 +1,7 @@
+cd /opt/nvidia/deepstream/deepstream-6.0/sources/apps/sample_apps/deepstream-test5
+
+./deepstream-test5-app -c configs/test5_config_file_src_infer.txt -p 1
+
+
+cd configs
+sudo gedit test5_config_file_src_infer.txt
